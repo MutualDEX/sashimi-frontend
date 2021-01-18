@@ -174,7 +174,7 @@ const Vault: React.FC = () => {
     <>
       <PageHeader
         icon={<img src={chef} height="120" alt="Sashimi" />}
-        subtitle={'Welcome to the Sashimi Vault, stake token to earn token.'}
+        subtitle={'Welcome To The BigSwap Vault, Stake Token To Earn Token.'}
         title='Sashimi Vault(Beta)'
       />
       <StyleSubTitle>
